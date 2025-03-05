@@ -1,1 +1,2 @@
 console.log("welcome to github");
+console.log("GitHub is a web-based platform for version control and collaboration, primarily used by developers to manage and share code. It is built on top of Git, a distributed version control system created by Linus Torvalds, the creator of Linux. GitHub provides a platform for developers to work together on software projects and track changes to their code over time.")
